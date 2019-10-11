@@ -1,0 +1,32 @@
+export default {
+    
+    darkGreen:'#40ac4e',
+    blue:'#567df6',
+    lightBlue:'#6087ff',
+    purple:'#f851bf',
+    lightPurple:'#F1EEFC',
+    green:'#6dcbcb',
+    green2:'#3ac569',
+    orange:'#f4871e',
+    red:'#ff5a86',
+    white:'#fff',
+    black:'#000',
+    lightBlack:'#353944',
+    lightBlack2:'#353945',
+    grey:'#a4a4a4',
+    offWhite:'#fafafa',
+    grey2:'#cccccc',
+    grey3:'#ececec',
+    grey4:'#979797',
+    lightGrey:'#ced2dc',
+    darkGrey:'#6a6a6a',
+    yellow:'#ffa23d',
+    labany:'#59afff',
+    brown:'#ed9574',
+    none:'#ffffff00',
+    faceBook:'#4065ac',
+    google:'#da4446',
+    errorBackColor:'#f7d7da',
+    errorColor:'#711d26'
+
+}
